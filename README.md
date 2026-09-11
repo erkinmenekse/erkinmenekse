@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Uğur Erkin Menekşe
 
-<!--
-**erkinmenekse/erkinmenekse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student focused on frontend and backend development. I enjoy building data-driven web applications and understanding how user interfaces, APIs, and data layers work together.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Studying Software Engineering at Izmir University of Economics
+- Gained practical software development experience through internships at Intertech and BorgWarner
+- Interested in backend architecture, frontend development, and data-driven systems
+- Focused on writing clean, maintainable, and reliable software
+
+## Technical Skills
+
+**Programming Languages:** Python, TypeScript, JavaScript, Java, SQL  
+**Frameworks & Data:** React, Next.js, FastAPI, PostgreSQL, pgvector  
+**Tools & Platforms:** Git, GitHub, Power Apps, Power BI, SharePoint, Power Automate
+
+## Featured Work
+
+### [AI-Powered Personal Finance Advisory Platform](https://github.com/Policommitte/finans-danismani)
+
+A team-developed platform featuring portfolio management, live market tracking, paper trading, risk analysis, personalized investment recommendations, and multi-agent AI workflows.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/u%C4%9Fur-erkin-menek%C5%9Fe-b079b7339/)
